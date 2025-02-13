@@ -21,8 +21,6 @@ I'm a passionate developer and data enthusiast focused on building predictive mo
 - **Other Tools:** Git, GitHub
 
 ## 📊 GitHub Stats
-[![Ares's GitHub stats](https://github-readme-stats.vercel.app/api?username=nvsingh2001&show_icons=true&theme=radical)](https://github.com/nvsingh2001)
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nvsingh2001&layout=compact)](https://github.com/nvsingh2001)
 
 ## 📫 How to Reach Me
