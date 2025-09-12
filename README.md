@@ -25,7 +25,7 @@ I'm a passionate developer and data enthusiast focused on building predictive mo
 
 ## 📫 How to Reach Me
 Feel free to reach out for collaborations or inquiries:
-- Email: [your.email@example.com](mailto:nvsingh2001@hotmail.com)
+- Email: [nvsingh2001@hotmail.com](mailto:nvsingh2001@hotmail.com)
 - [LinkedIn](https://www.linkedin.com/in/naman-vinay-singh/)
 
 Thanks for stopping by! 🚀
