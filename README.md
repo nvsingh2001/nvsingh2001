@@ -68,20 +68,6 @@ Machine learning system achieving 98% accuracy in fraud detection
 - Automated metrics visualization and logging for fraud pattern tracking
 - [Published Research Paper →](https://paper-link.com)
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nvsingh2001&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
-## 🎓 Certifications
-
-- **Introduction to NoSQL Databases** - IBM (Coursera)
-- **Artificial Intelligence A-Z** - Udemy
-- **Principles of UX/UI Design** - Meta (Coursera)
-- **Introduction to Internet of Things** - NPTEL
 
 ## 🤝 Let's Connect
 
