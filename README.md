@@ -71,12 +71,8 @@ Machine learning system achieving 98% accuracy in fraud detection
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nvsingh2001&show_icons=true&theme=radical&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nvsingh2001&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nvsingh2001&theme=radical&hide_border=true)
 
 </div>
 
