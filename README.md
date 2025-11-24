@@ -10,11 +10,8 @@
 
 ## 🚀 About Me
 
-Aspiring **Full Stack Developer** passionate about building scalable web applications using modern technologies. Currently pursuing B.E. in Computer Science at Chandigarh University with hands-on experience in full-stack development, machine learning, and information retrieval systems.
+**Full Stack Developer** passionate about building scalable web applications using modern technologies. Completed B.E. in Computer Science at Chandigarh University with hands-on experience in full-stack development, machine learning, and information retrieval systems.
 
-- 🔭 Currently working as **Full Stack Developer Intern** at WebMobi360
-- 🌱 Expanding my backend expertise with **Spring Boot**
-- 💼 Previously interned at Techplement as **Python Developer Intern**
 - 📍 Based in Bengaluru, India
 
 ## 💻 Tech Stack
@@ -29,9 +26,6 @@ Aspiring **Full Stack Developer** passionate about building scalable web applica
 
 **Frameworks & Libraries:**  
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 
@@ -68,6 +62,9 @@ Machine learning system achieving 98% accuracy in fraud detection
 - Automated metrics visualization and logging for fraud pattern tracking
 - [Published Research Paper →](https://paper-link.com)
 
+## 📊 GitHub Stats
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nvsingh2001&layout=compact)](https://github.com/nvsingh2001)
+
 
 ## 🤝 Let's Connect
 
@@ -86,13 +83,3 @@ I'm always interested in collaborating on innovative projects and discussing new
 ![Profile Views](https://komarev.com/ghpvc/?username=nvsingh2001&color=blueviolet&style=flat)
 
 </div>
-
-## 📊 GitHub Stats
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nvsingh2001&layout=compact)](https://github.com/nvsingh2001)
-
-## 📫 How to Reach Me
-Feel free to reach out for collaborations or inquiries:
-- Email: [nvsingh2001@hotmail.com](mailto:nvsingh2001@hotmail.com)
-- [LinkedIn](https://www.linkedin.com/in/naman-vinay-singh/)
-
-Thanks for stopping by! 🚀
