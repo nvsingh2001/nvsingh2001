@@ -47,7 +47,7 @@ A scalable quiz platform with JWT authentication and role-based access control
 - **Tech:** React, Node.js, Express.js, MongoDB, JWT, Tailwind CSS, GCP
 - Built RESTful APIs with comprehensive CRUD operations and admin workflows
 - Deployed containerized backend on Cloud Run with MongoDB Atlas integration
-- [Live Demo →](https://quizzy-demo-link.com)
+- [Live Demo →](https://quizzyapp.pages.dev/)
 
 ### 🔍 [Book Search Engine](https://github.com/nvsingh2001/book-search-engine)
 Intelligent search engine using NLP and inverted indexing
@@ -60,10 +60,10 @@ Machine learning system achieving 98% accuracy in fraud detection
 - **Tech:** Python, Scikit-learn, Random Forest, Gradient Boosting, XGBoost
 - Built preprocessing pipeline with comprehensive model evaluation
 - Automated metrics visualization and logging for fraud pattern tracking
-- [Published Research Paper →](https://paper-link.com)
+- [Published Research Paper →](https://ieeexplore.ieee.org/abstract/document/10840967?casa_token=Ecfm_l_IrgsAAAAA:DoiqvGuZ9ZgFvZaw2F0SOZpPSCtBGfpnAAMJ0IlYkGFXmMoHsIOlzuwQw39OnRXlT-bcGguJfbHLmg)
 
 ## 📊 GitHub Stats
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nvsingh2001&layout=compact)](https://github.com/nvsingh2001)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nvsingh2001&layout=compact)]
 
 
 ## 🤝 Let's Connect
